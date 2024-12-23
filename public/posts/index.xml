@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Basketball</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Basketball</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2024 18:19:36 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My site pro basketball</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 23 Dec 2024 18:19:36 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Ya lyublyu basketbol&amp;lt;3&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Майкл Джордан</title>
+      <link>http://localhost:1313/posts/miklejordan/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/miklejordan/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Майкл Джордан — легендарный американский баскетболист, родился 17 февраля 1963 года. Он выступал за команды «Чикаго Буллз» и «Вашингтон Уизардс» в Национальной баскетбольной ассоциации (НБА). Джордан считается одним из лучших баскетболистов всех времён.&lt;/p&gt;&#xA;&lt;p&gt;За свою карьеру Джордан выиграл шесть чемпионатов НБА с «Чикаго Буллз», а также две золотые олимпийские медали в составе сборной США по баскетболу. Он установил множество рекордов и достижений, включая звание самого ценного игрока НБА (MVP) пять раз и звания самого результативного игрока НБА семь раз.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Стефен Карри</title>
+      <link>http://localhost:1313/posts/kari/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kari/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Стеф Карри — американский профессиональный баскетболист, родившийся 14 марта 1988 года в Акроне, штат Огайо. Он начал свою карьеру в колледже Дэвидсона в 2006 году и был выбран на драфте НБА 2009 года под седьмым номером. Карри выступает за команду НБА «Голден Стэйт Уорриорз».&lt;/p&gt;&#xA;&lt;p&gt;Стеф Карри является четырёхкратным чемпионом НБА, двукратным MVP НБА и олимпийским чемпионом 2024 года. Он также является лидером в истории НБА по трёхочковым попаданиям как в регулярных чемпионатах, так и в плей-офф. В составе сборной США Стеф Карри стал чемпионом мира 2010 и 2014 годов.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
